@@ -1,0 +1,67 @@
+.banner {
+    padding: 1rem;
+    background-image: url("./images/boom-banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.me {
+    border-radius: 50%;
+    float: left;
+    width: 20vw;
+}
+
+.my-4 {
+    margin-left: 23%;
+    border-color: #fff;
+}
+
+.display-4 {
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+}
+
+.greeting {
+    margin-left: 25%;
+    font-size: 1.5rem;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-card {
+    padding: 10px;
+}
+
+.card {
+    margin-top: 8%;
+}
+
+.before {
+    margin-top: 15px;
+}
+
+.title {
+    font-family: 'Playfair Display', serif;
+    margin-top: 5%;
+}
+
+.card-title, span {
+    font-family: 'Playfair Display', serif;
+}
+
+.card-text {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel {
+    margin: 20px;
+}
+
+.carousel-title {
+    font-family: 'Playfair Display', serif;
+}
+
+.carousel-sub {
+    font-family: 'Poppins', sans-serif;
+}
